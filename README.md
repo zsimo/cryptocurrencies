@@ -6,3 +6,6 @@ Some notes about cryptocurrencies.
 - peer-to-peer networks
 - public-key cryptography
 - distributed consensus based on the resolution of a random mathematical challenge
+
+
+## [Excanges](https://getmonero.org/community/merchants/#exchanges)
