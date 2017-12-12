@@ -9,3 +9,5 @@ Some notes about cryptocurrencies.
 
 
 ## [Excanges](https://getmonero.org/community/merchants/#exchanges)
+- [alfacashier](https://www.alfacashier.com/buy/monero)
+- [bitmex](https://www.bitmex.com/app/trade/XMRZ17)
