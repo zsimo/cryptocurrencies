@@ -13,6 +13,7 @@
 - [alfacashier](https://www.alfacashier.com/buy/monero)
 - [bitmex](https://www.bitmex.com/app/trade/XMRZ17)
 - the largest [bitfinex](https://www.bitfinex.com/)
+- lower fee[hitbtc](https://hitbtc.com/)
 
 
 ## [Wallets](https://www.zcashcommunity.com/wallets/)
