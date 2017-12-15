@@ -1,5 +1,5 @@
 ## Cryptocurrencies
-- [Zcash] Zerocash, the protocol that succeeded Zerocoin, is being developed into a full-fledged digital currency, Zcash (https://z.cash/)
+- Zerocash,the protocol that succeeded Zerocoin, is being developed into a full-fledged digital currency, [Zcash](https://z.cash/)
 
 
 ## Blockchain, 3 main concepts [see](https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html): 
