@@ -14,6 +14,7 @@
 - curva costante ascesa [bitshares](https://bitshares.org/)
 - nuova [magnetwork](http://magnetwork.io/)
 - brendan eich [basicattentiontoken](https://basicattentiontoken.org/)
+- super computer [golem](https://golem.network/)
 
 
 ## [Exchanges](https://getmonero.org/community/merchants/#exchanges)
