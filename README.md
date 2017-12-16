@@ -12,9 +12,10 @@
 - grande capitalizzazione[ripple](https://ripple.com/)
 - bella curva - privacy[verge](https://vergecurrency.com/)
 - curva costante ascesa [bitshares](https://bitshares.org/)
+- nuova [magnetwork](http://magnetwork.io/)
 
 
-## [Excanges](https://getmonero.org/community/merchants/#exchanges)
+## [Exchanges](https://getmonero.org/community/merchants/#exchanges)
 - [alfacashier](https://www.alfacashier.com/buy/monero)
 - [bitmex](https://www.bitmex.com/app/trade/XMRZ17)
 - the largest [bitfinex](https://www.bitfinex.com/)
