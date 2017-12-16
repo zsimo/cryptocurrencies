@@ -2,6 +2,7 @@
 - peer-to-peer networks
 - public-key cryptography
 - distributed consensus based on the resolution of a random mathematical challenge
+## Blockchain is an append only log [see](https://www.coursera.org/learn/cryptocurrency/lecture/be6cd/bitcoin-as-an-append-only-log)
 
 
 ## Cryptocurrencies
