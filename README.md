@@ -23,6 +23,7 @@
 - [bitmex](https://www.bitmex.com/app/trade/XMRZ17)
 - the largest [bitfinex](https://www.bitfinex.com/)
 - lower fee [hitbtc](https://hitbtc.com/)
+- app open source [bisq](https://bisq.network/)
 
 
 ## [Wallets](https://www.zcashcommunity.com/wallets/)
