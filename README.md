@@ -13,6 +13,7 @@
 - bella curva - privacy[verge](https://vergecurrency.com/)
 - curva costante ascesa [bitshares](https://bitshares.org/)
 - nuova [magnetwork](http://magnetwork.io/)
+- brendan eich [basicattentiontoken](https://basicattentiontoken.org/)
 
 
 ## [Exchanges](https://getmonero.org/community/merchants/#exchanges)
