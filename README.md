@@ -5,9 +5,12 @@
 
 
 ## Cryptocurrencies
-- Zerocash,the protocol that succeeded Zerocoin, is being developed into a full-fledged digital currency, [Zcash](https://z.cash/)
-- [Streamr](https://www.streamr.com/)
-- Internet-of-Things [Iota](https://iota.org/)
+- Zerocash,the protocol that succeeded Zerocoin, is being developed into a full-fledged digital currency, [zcash](https://z.cash/)
+- [streamr](https://www.streamr.com/)
+- Internet-of-Things [iota](https://iota.org/)
+- curva costante ascesa [bitshares](https://bitshares.org/)
+- bella curva - privacy[verge](https://vergecurrency.com/)
+- grande capitalizzazione[ripple](https://ripple.com/)
 
 
 ## [Excanges](https://getmonero.org/community/merchants/#exchanges)
