@@ -30,6 +30,7 @@
 - lower fee [hitbtc](https://hitbtc.com/)
 - app open source [bisq](https://bisq.network/)
 - [bitstamp](https://www.bitstamp.net/)
+- eu [litebit](https://www.litebit.eu/en)
 
 
 ## [Wallets](https://www.zcashcommunity.com/wallets/)
