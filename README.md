@@ -19,6 +19,7 @@
 - use bitcoin adding info (use bisq) [namecoin](https://www.namecoin.org/)
 - not contant fluctuations[presearch](https://www.presearch.io)
 - Prediction Market +++[augur](https://augur.net/)
+- old one [peercoin](https://peercoin.net/)
 
 
 ## [Exchanges](https://getmonero.org/community/merchants/#exchanges)
