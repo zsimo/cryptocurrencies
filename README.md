@@ -20,6 +20,7 @@
 - not contant fluctuations[presearch](https://www.presearch.io)
 - Prediction Market +++[augur](https://augur.net/)
 - old one [peercoin](https://peercoin.net/)
+- social [steem](https://steem.io/)
 
 
 ## [Exchanges](https://getmonero.org/community/merchants/#exchanges)
