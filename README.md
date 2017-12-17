@@ -18,6 +18,7 @@
 - super computer [golem](https://golem.network/)
 - use bitcoin adding info [namecoin](https://www.namecoin.org/)
 - not contant fluctuations[presearch](https://www.presearch.io)
+- Prediction Market +++[augur](https://augur.net/)
 
 
 ## [Exchanges](https://getmonero.org/community/merchants/#exchanges)
