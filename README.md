@@ -16,7 +16,7 @@
 - nuova [magnetwork](http://magnetwork.io/)
 - brendan eich [basicattentiontoken](https://basicattentiontoken.org/)
 - super computer [golem](https://golem.network/)
-- usa bitcoin e ci aggiunge info [namecoin](https://www.namecoin.org/)
+- use bitcoin adding info [namecoin](https://www.namecoin.org/)
 - not contant fluctuations[presearch](https://www.presearch.io)
 
 
