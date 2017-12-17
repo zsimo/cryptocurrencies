@@ -36,3 +36,4 @@
 
 ## miscellaneous
 - [NIST Randomness Beacon](https://beacon.nist.gov/home)
+- [realitykeys](https://www.realitykeys.com/) [(see)](https://www.coursera.org/learn/cryptocurrency/lecture/ke2XY/prediction-markets-real-world-data-feeds)
