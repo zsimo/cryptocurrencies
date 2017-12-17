@@ -17,6 +17,7 @@
 - brendan eich [basicattentiontoken](https://basicattentiontoken.org/)
 - super computer [golem](https://golem.network/)
 - usa bitcoin e ci aggiunge info [namecoin](https://www.namecoin.org/)
+- not contant fluctuations[presearch](https://www.presearch.io)
 
 
 ## [Exchanges](https://getmonero.org/community/merchants/#exchanges)
