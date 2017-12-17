@@ -31,3 +31,6 @@
 - [Cryptonator](https://www.cryptonator.com/)
 
 ## [blockchain.mit](http://blockchain.mit.edu/)
+
+## miscellaneous
+- [NIST Randomness Beacon](https://beacon.nist.gov/home)
