@@ -29,6 +29,7 @@
 - the largest [bitfinex](https://www.bitfinex.com/)
 - lower fee [hitbtc](https://hitbtc.com/)
 - app open source [bisq](https://bisq.network/)
+- [bitstamp](https://www.bitstamp.net/)
 
 
 ## [Wallets](https://www.zcashcommunity.com/wallets/)
